@@ -1,0 +1,84 @@
+body {
+			font: sans-serif;
+		}
+
+h1	{
+		color: black;
+
+}
+
+label 			{
+						display: block;
+}
+
+a 			{
+					text-decoration: none;
+					color: black;
+}
+.details {
+			text-align: center;
+			width: auto;
+			height: auto;
+			margin-left: 350px;
+}
+
+.skills {
+			border-right: 2px solid #ddd;
+			text-align: left;
+			margin-bottom: 35px;
+}
+
+.primary {
+			padding-bottom: 10px;
+			margin-bottom: 25px;
+}
+
+.work 	{
+			
+			width: auto;
+			height: auto;
+}
+
+.projects 	{
+				background-color:
+}
+
+button 		{
+				width: 80px;
+				height: 30px;
+				background-color: #ddd;
+				margin-top: 18px;
+				margin-bottom: 10px;
+				
+}
+
+button:hover	{
+					background-color: white;
+					color: blue;
+}
+
+.contact		{
+					display: inline-block;
+					text-align: center;
+					float: none;
+					background-color: #ddd;
+					width: 100%;
+					padding-bottom: 25px;
+}
+
+.submit			{
+					background-color: #ddd;
+					width: 80px;
+					height: 30px;
+					border-radius: 3px;
+					color: black;
+}
+
+.submit:hover		{
+						background-color: white;
+						color: #ddd;
+}
+
+.projects			{
+						margin-top: 50px;
+}
